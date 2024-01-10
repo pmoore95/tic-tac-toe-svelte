@@ -1,0 +1,9 @@
+@import url('/static/fonts/fonts.css');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+	font-family: 'Montserrat';
+}
